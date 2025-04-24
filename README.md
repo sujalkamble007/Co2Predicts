@@ -20,7 +20,6 @@ A full-stack web application for predicting CO₂ emissions using machine learni
 - Machine Learning models
 
 ### Frontend
-- Next.js
 - React
 - TypeScript
 - Modern UI components
